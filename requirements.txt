@@ -1,0 +1,10 @@
+faster-whisper
+chromadb
+sentence-transformers
+transformers
+torch
+sounddevice
+soundfile
+pyttsx3
+huggingface-hub
+numpy
